@@ -13,8 +13,10 @@
 - ❓ Ask me about anything related to Data Science and related technologies  
   
 
-- ⚡ Quirky fact: I code with tabs instead of spaces ✨  
-  
+- ⚡ Quirky fact: I code with tabs instead of spaces ✨
+
+
+- 📫 How to reach me **anandaanandas390@gmail.com**
 
 <br/>  
 
