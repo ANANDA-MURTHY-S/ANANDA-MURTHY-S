@@ -1,3 +1,6 @@
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+
 ### <div align="center">I'm Ananda Murthy S,  Data Science Intern👨‍💻 at Siva academy</div>  
   
 
